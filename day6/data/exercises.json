@@ -1,0 +1,23 @@
+[
+  {
+    "id": "ALG-INT-001",
+    "topic": "Algebra",
+    "level": "Intermediate",
+    "question": "Solve for x: 3x + 7 = 22. What is the value of x?",
+    "answer": "5"
+  },
+  {
+    "id": "ALG-BEG-001",
+    "topic": "Algebra",
+    "level": "Beginner",
+    "question": "If x + 4 = 10, what is x?",
+    "answer": "6"
+  },
+  {
+    "id": "PY-INT-001",
+    "topic": "Python",
+    "level": "Intermediate",
+    "question": "What does len([10, 20, 30]) return in Python?",
+    "answer": "3"
+  }
+]
